@@ -1,4 +1,4 @@
-# Hi there, I am Artemy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I am Artemiy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I work as a computer vision engineer.
 
 
@@ -19,7 +19,6 @@ I work as a computer vision engineer.
     <img height="20" src="https://img.stackshare.io/service/5601/keras.png">&nbsp
     <img height="20" src="https://paperswithcode.com/media/libraries/dete.png">&nbsp
     <img height="20" src="https://avatars.githubusercontent.com/u/29043415?s=400&v=4">&nbsp
-    <img height="20" src="https://image.flaticon.com/icons/png/512/226/226770.png">&nbsp
     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">&nbsp
     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
   </p>
