@@ -1,30 +1,9 @@
-# Hi there, I am Artemiy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I work as a computer vision engineer.
+# Hi there, I am Artemii! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I work as an AI engineer.
 
-
-### Languages
-<div> 
-  <p>
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp
-    <img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_169577.png">&nbsp
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">&nbsp
-    <img height="20" src="https://img1.pnghut.com/23/6/9/MuQXWFxY4g/microsoft-sign-brand-amazon-web-services-text.jpg">
-  </p>
-</div>
-
-### Tools
-<div> 
-  <p>
-    <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/512px-PyTorch_logo_icon.svg.png">&nbsp
-    <img height="20" src="https://img.stackshare.io/service/5601/keras.png">&nbsp
-    <img height="20" src="https://paperswithcode.com/media/libraries/dete.png">&nbsp
-    <img height="20" src="https://avatars.githubusercontent.com/u/29043415?s=400&v=4">&nbsp
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">&nbsp
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-  </p>
-</div>
-
-
+### Learn More About Me 🌐  
+Check out my website for my latest experience, projects, and more:  
+[**apshirokov.com**](https://apshirokov.com) 
 
 ### Find me elsewhere 🌎
 
